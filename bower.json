@@ -1,0 +1,17 @@
+{
+    "name": "ptsanscaption-googlefont",
+    "license": "OFL",
+    "authors": [
+        "ParaType"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/ptsanscaption-bower.git"
+    },
+    "description": "PT Sans Caption font",
+    "keywords": [
+        "font",
+        "SANS_SERIF"
+    ]
+}
